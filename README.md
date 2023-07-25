@@ -4,6 +4,6 @@ Satire is one of the important categories of figurative language. This repositor
 
 A short statistics of two files is given below:-
 
-1. Sarcasm.xls: This file contains a total of 16374 tweet ids for satire category. 
+1. Sarcasm.xlsx: This file contains a total of 16374 tweet ids for satire category. 
 
-2. Non_Sarcasm.xls: This file contains a total of 25821 tweet ids for non-satire category.
+2. Non_Sarcasm.xlsx: This file contains a total of 25821 tweet ids for non-satire category.
