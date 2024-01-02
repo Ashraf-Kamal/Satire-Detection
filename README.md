@@ -1,13 +1,15 @@
+
 # Pre-requisite:
 --------------------------------
-Twitter REST API
-Keras 2.2.4
-Numpy
-Pandas
-Python 3.7, 2.7
-GloVe
-Tensorflow 1.15
-NLTK
+
+1. Twitter REST API
+2. Keras 2.2.4
+3. Numpy
+4. Pandas
+5. Python 3.7, 2.7
+6. GloVe
+7. Tensorflow 1.15
+8. NLTK
 
 # Satire-280 Dataset
 --------------------------------
