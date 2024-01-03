@@ -1,3 +1,6 @@
+# Proposed BiSAT model
+--------------------------------
+The proposed BiSAT model with an input layer to process the input text and follows on to an embedding layer to embed the text into a numeric representation. The first BiLSTM process sequences in both forward and backward directions, enabling them to capture information from past and future time steps simultaneously. This helps in understanding satirical context in both directions. Thereafter, self-attention layer is responsible to calculate attention weights between different elements of the sequence, enabling the model to focus on relevant satirical information and facilitate long-range dependencies without recurrence. The second BiLSM receives the outcome of the self-attention layer and it helps in capturing more complex satirical patterns and dependencies in the sequences. In addtion to that four groups of hand-crafted shallow which consist of 13 auxiliary features making the model well-informed. The proposed model is evaluated over two benchmark datasets and a newly created Satire-280 dataset. It performs significantly better than the comparable methods.
 
 # Pre-requisite:
 --------------------------------
@@ -10,11 +13,6 @@
 6. GloVe
 7. Tensorflow 1.15
 8. NLTK
-
-
-# Proposed BiSAT model
---------------------------------
-The proposed BiSAT model with an input layer to process the input text and follows on to an embedding layer to embed the text into a numeric representation. The first BiLSTM process sequences in both forward and backward directions, enabling them to capture information from past and future time steps simultaneously. This helps in understanding satirical context in both directions. Thereafter, self-attention layer is responsible to calculate attention weights between different elements of the sequence, enabling the model to focus on relevant satirical information and facilitate long-range dependencies without recurrence. The second BiLSM receives the outcome of the self-attention layer and it helps in capturing more complex satirical patterns and dependencies in the sequences. In addtion to that four groups of hand-crafted shallow which consist of 13 auxiliary features making the model well-informed. The proposed model is evaluated over two benchmark datasets and a newly created Satire-280 dataset. It performs significantly better than the comparable methods.
 
 # Satire-280 Dataset
 --------------------------------
