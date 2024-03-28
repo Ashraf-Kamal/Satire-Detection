@@ -23,6 +23,9 @@ A short statistics of the two files of Satire-280 dataset is given below:-
 
 2. Non_Satire.xlsx: This file contains a total of 25821 tweet ids for non-satire category.
 
+# Cite paper
+
+Kamal, A., Abulaish, M., & Jahiruddin. (2024). Contextualized Satire Detection in Short Texts Using Deep Learning Techniques. Journal of Web Engineering, 23(01), 27–52. https://doi.org/10.13052/jwe1540-9589.2312
 
 
 
