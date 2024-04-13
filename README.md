@@ -25,7 +25,9 @@ A short statistics of the two files of Satire-280 dataset is given below:-
 
 # Cite paper
 
-Kamal, A., Abulaish, M., and Jahiruddin. (2024). Contextualized Satire Detection in Short Texts Using Deep Learning Techniques. Journal of Web Engineering, 23(01), 27–52. https://doi.org/10.13052/jwe1540-9589.2312
+Kamal, A., Abulaish, M., and Jahiruddin. (2024). Contextualized Satire Detection in Short Texts Using Deep Learning Techniques. Journal of Web Engineering, 23(01), pp. 27–52. 
+
+DOI: https://doi.org/10.13052/jwe1540-9589.2312
 
 
 
